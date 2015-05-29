@@ -1,0 +1,2 @@
+# spatialhadoop
+# mrduongnv@gmail.com
